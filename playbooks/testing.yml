@@ -4,4 +4,4 @@
   connection: local
 
   roles:
-    - { role: myrole }
+    - { role: roles/myrole/tasks/ }
