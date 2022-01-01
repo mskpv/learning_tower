@@ -1,3 +1,4 @@
----    
-- src: https://github.com/mskpv/learning_tower.git
-  scm: git
+---
+collections:
+  - src: https://github.com/mskpv/learning_tower.git
+    scm: git
